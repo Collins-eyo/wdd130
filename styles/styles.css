@@ -44,6 +44,7 @@ main img{
 aside{
     width:20rem;
     height:auto;
+    position: relative;
 }
 
 aside img{

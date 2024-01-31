@@ -12,8 +12,7 @@ header, footer {
 header, .grid, footer{
     max-width: 840px;
     margin: 0 auto;
-} 
-
+} /* this is for the grid class*/
 .grid{
     display: grid;
     align-items: center;
